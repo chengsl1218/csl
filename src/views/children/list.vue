@@ -1,6 +1,6 @@
 <template>
     <div>
-        积云官网
+        name:Super Admin
     </div>
 </template>
 
